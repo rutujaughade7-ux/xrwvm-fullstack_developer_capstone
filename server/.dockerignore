@@ -1,0 +1,5 @@
+**/node_modules
+frontend/build
+database
+db.sqlite3
+**/__pycache__
